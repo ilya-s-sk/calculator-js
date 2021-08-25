@@ -1,4 +1,4 @@
-Calculator on js.
+# Calculator on js.
 
 Every developer should make this project, right?
 
